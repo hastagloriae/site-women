@@ -24,4 +24,5 @@ urlpatterns = [
     path('', include('women.urls')),
 ]
 
+
 handler404 = page_not_found
